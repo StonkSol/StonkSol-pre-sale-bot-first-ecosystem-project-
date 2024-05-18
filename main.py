@@ -8,7 +8,7 @@ import json
 
 # Configuración del bot de Telegram
 TOKEN = "TU_TOKEN_DE_TELEGRAM"
-BOT_WALLET_PRIVATE_KEY = "61R3zAYPpQsAvub4mLaocVU7XfPksAbxxxECHm8UVtnTTSkZjigucCc1RU9uDueLabKrf5uTXaS4ymFv9wocvy8Z"
+BOT_WALLET_PRIVATE_KEY = ""
 BOT_WALLET_ADDRESS = "3h8aSEnnmMVK6FcBrpWKbVdgeCEeoaaFJVibXTcWSdU9"
 
 # Configuración de la red de Solana
